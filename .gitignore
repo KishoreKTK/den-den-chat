@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 .streamlit/secrets.toml
 .DS_Store
+
+# Local AI-assistant skill files (installed from the Streamlit package)
+.agents/
+.claude/
+
+# Temporary preview scripts
+_preview_*.py

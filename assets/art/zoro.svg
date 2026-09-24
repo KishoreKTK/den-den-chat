@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+<defs><radialGradient id="g" cx="50%" cy="40%" r="65%">
+<stop offset="0" stop-color="#7BE0A0"/><stop offset="1" stop-color="#1F7A43"/></radialGradient></defs>
+<rect width="400" height="400" rx="48" fill="url(#g)"/>
+<circle cx="200" cy="200" r="165" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="6" stroke-dasharray="14 12"/>
+<circle cx="70" cy="90" r="6" fill="#fff" opacity=".55"/><circle cx="330" cy="80" r="5" fill="#fff" opacity=".55"/><circle cx="345" cy="300" r="7" fill="#fff" opacity=".55"/><circle cx="60" cy="320" r="4" fill="#fff" opacity=".55"/><circle cx="300" cy="350" r="3" fill="#fff" opacity=".55"/>
+<g transform="rotate(-38 200 210)"><g>
+<polygon points="200,58 212,82 188,82" fill="#fff"/>
+<rect x="188" y="80" width="24" height="170" rx="3" fill="#fff"/>
+<rect x="194" y="84" width="4" height="160" fill="#CFE9D6"/>
+<ellipse cx="200" cy="256" rx="34" ry="11" fill="#F2C14E"/>
+<rect x="189" y="264" width="22" height="74" rx="6" fill="#1B2A4A"/>
+<path d="M189 276 l22 12 M189 296 l22 12 M189 316 l22 12" stroke="#F2C14E" stroke-width="4"/>
+</g></g><g transform="rotate(38 200 210)"><g>
+<polygon points="200,58 212,82 188,82" fill="#fff"/>
+<rect x="188" y="80" width="24" height="170" rx="3" fill="#fff"/>
+<rect x="194" y="84" width="4" height="160" fill="#CFE9D6"/>
+<ellipse cx="200" cy="256" rx="34" ry="11" fill="#F2C14E"/>
+<rect x="189" y="264" width="22" height="74" rx="6" fill="#1B2A4A"/>
+<path d="M189 276 l22 12 M189 296 l22 12 M189 316 l22 12" stroke="#F2C14E" stroke-width="4"/>
+</g></g><g transform="rotate(0 200 210)"><g>
+<polygon points="200,58 212,82 188,82" fill="#fff"/>
+<rect x="188" y="80" width="24" height="170" rx="3" fill="#fff"/>
+<rect x="194" y="84" width="4" height="160" fill="#CFE9D6"/>
+<ellipse cx="200" cy="256" rx="34" ry="11" fill="#F2C14E"/>
+<rect x="189" y="264" width="22" height="74" rx="6" fill="#1B2A4A"/>
+<path d="M189 276 l22 12 M189 296 l22 12 M189 316 l22 12" stroke="#F2C14E" stroke-width="4"/>
+</g></g>
+</svg>

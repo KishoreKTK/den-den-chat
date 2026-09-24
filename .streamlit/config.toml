@@ -1,0 +1,24 @@
+# Grand Line theme: sunset sand, straw-hat red, ocean blue.
+[theme]
+base = "light"
+primaryColor = "#D62828"
+backgroundColor = "#FFF8EC"
+secondaryBackgroundColor = "#FDE7C2"
+textColor = "#1B2A4A"
+borderColor = "#EDC98E"
+linkColor = "#1D6FB8"
+showWidgetBorder = true
+baseRadius = "large"
+buttonRadius = "full"
+
+font = "Nunito:https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap"
+headingFont = "Bangers:https://fonts.googleapis.com/css2?family=Bangers&display=swap"
+headingFontSizes = ["3.4rem", "2.1rem", "1.6rem", "1.25rem", "1rem", "0.9rem"]
+headingFontWeights = 400
+
+redColor = "#D62828"
+orangeColor = "#EE6C0C"
+yellowColor = "#C99400"
+greenColor = "#23904A"
+blueColor = "#1D6FB8"
+violetColor = "#7438C2"

@@ -6,7 +6,7 @@
 
 Den Den Chat is a chatbot with five One Piece–inspired personalities, built with [Streamlit](https://streamlit.io) and powered by [Claude](https://www.anthropic.com/claude). It's named after the *Den Den Mushi*, the snail phones the crew use to call each other.
 
-> **Live app:** _add your Streamlit Cloud link here after deploying_
+> 🚀 **Try it live:** [den-den-chat.streamlit.app](https://den-den-chat.streamlit.app/)
 
 | | Companion | Role | Personality |
 |---|---|---|---|
